@@ -6,7 +6,7 @@
   "cover": "https://i.imgur.com/B7MGuls.png",
   "chapters": {
     "1": {
-      "title": "The Novelist and the Auto Memories Doll",
+      "title": "The Playwright and the Auto Memories Doll",
       "volume": "1",
       "last_updated": "1387951200",
       "groups": {
@@ -27,6 +27,36 @@
 		"https://i.imgur.com/RZPBtQJ.png",
 		"https://i.imgur.com/gaosbAH.png",
 		"https://i.imgur.com/ONeBgrF.png"
+        ]
+      }
+    },
+    "2": {
+      "title": "The Girl and the Auto-Memories Doll",
+      "volume": "1",
+      "last_updated": "1387951200",
+      "groups": {
+        " ": [
+		"https://i.imgur.com/XV7Fpxr.png",
+		"https://i.imgur.com/3V3iNCa.png",
+		"https://i.imgur.com/Zyn0zf2.png",
+		"https://i.imgur.com/RbvfYcX.png",
+		"https://i.imgur.com/UMkNCxk.png",
+		"https://i.imgur.com/YJIQ0nw.png",
+		"https://i.imgur.com/dJ2ijol.png",
+		"https://i.imgur.com/Bm8KkV0.png",
+		"https://i.imgur.com/PjyGZ8i.png",
+		"https://i.imgur.com/XYwa2D9.png",
+		"https://i.imgur.com/zQN7JDT.png",
+		"https://i.imgur.com/612vrMz.png",
+		"https://i.imgur.com/wnPskne.png",
+		"https://i.imgur.com/uYX0eUw.png",
+		"https://i.imgur.com/c2OGYoR.png",
+		"https://i.imgur.com/QrZXBdZ.png",
+		"https://i.imgur.com/t8vKFyK.png",
+		"https://i.imgur.com/r0WID47.png",
+		"https://i.imgur.com/9u3BpM8.png",
+		"https://i.imgur.com/hc20Cx9.png",
+		"https://i.imgur.com/BvPvjIO.png"
         ]
       }
     }
