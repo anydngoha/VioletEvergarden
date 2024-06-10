@@ -223,7 +223,7 @@
       }
     },
     "6.5": {
-      "title": "Afterward",
+      "title": "Afterword (Volume 1)",
       "volume": "1",
       "last_updated": "1451023200",
       "groups": {
@@ -401,6 +401,81 @@
 		"https://i.imgur.com/i6ZTcZ0.png",
 		"https://i.imgur.com/EdxDJHg.png",
 		"https://i.imgur.com/OJG9cYk.png"
+        ]
+      }
+    },
+    "13": {
+      "title": "Violet Evergarden",
+      "volume": "2",
+      "last_updated": "1480917600",
+      "groups": {
+        "dennou-translations": [
+		"https://i.imgur.com/KX13YaB.png",
+		"https://i.imgur.com/qepzgwE.png",
+		"https://i.imgur.com/9Q7BU9O.png",
+		"https://i.imgur.com/1pEEkOq.png",
+		"https://i.imgur.com/eaW1Jz8.png",
+		"https://i.imgur.com/QhIuUfe.png",
+		"https://i.imgur.com/gfLd0Le.png",
+		"https://i.imgur.com/KVyuT5Q.png",
+		"https://i.imgur.com/LX62B36.png",
+		"https://i.imgur.com/zV9BJa1.png",
+		"https://i.imgur.com/xP6n52d.png",
+		"https://i.imgur.com/NrDPjBZ.png",
+		"https://i.imgur.com/pREPWJw.png",
+		"https://i.imgur.com/iL743Kn.png",
+		"https://i.imgur.com/Mr0nu1b.png",
+		"https://i.imgur.com/AScGso6.png",
+		"https://i.imgur.com/PjoD1pe.png",
+		"https://i.imgur.com/ZXfMWuw.png",
+		"https://i.imgur.com/2mzfNGD.png",
+		"https://i.imgur.com/epKUhQy.png",
+		"https://i.imgur.com/y9miDKb.png",
+		"https://i.imgur.com/r64QzML.png",
+		"https://i.imgur.com/xCnROxM.png",
+		"https://i.imgur.com/ODsywtv.png",
+		"https://i.imgur.com/usmePI0.png",
+		"https://i.imgur.com/dkgwgfD.png",
+		"https://i.imgur.com/r6udtZl.png",
+		"https://i.imgur.com/vdvJSzZ.png",
+		"https://i.imgur.com/wMoHyME.png",
+		"https://i.imgur.com/zRFRmmc.png",
+		"https://i.imgur.com/q9oc4KV.png",
+		"https://i.imgur.com/3zzACKl.png",
+		"https://i.imgur.com/E062llf.png",
+		"https://i.imgur.com/NMHqC76.png",
+		"https://i.imgur.com/YdJXFr5.png",
+		"https://i.imgur.com/xIsOuNc.png",
+		"https://i.imgur.com/ubxfnIO.png",
+		"https://i.imgur.com/9NPrlcZ.png",
+		"https://i.imgur.com/3IBaMK7.png",
+		"https://i.imgur.com/zmTHWar.png",
+		"https://i.imgur.com/VLcIRvb.png",
+		"https://i.imgur.com/W2nO9aN.png",
+		"https://i.imgur.com/QZbm8zC.png",
+		"https://i.imgur.com/tRoyCGf.png",
+		"https://i.imgur.com/ZZXW9tv.png",
+		"https://i.imgur.com/3E7ujh8.png",
+		"https://i.imgur.com/04A1DQL.png",
+		"https://i.imgur.com/aeFjYXT.png",
+		"https://i.imgur.com/vM5BNnt.png",
+		"https://i.imgur.com/FUfGNIO.png",
+		"https://i.imgur.com/hyuHmYB.png",
+		"https://i.imgur.com/upRWAM2.png",
+		"https://i.imgur.com/5ltijTh.png",
+		"https://i.imgur.com/waOmeyl.png",
+		"https://i.imgur.com/wstAVzM.png",
+		"https://i.imgur.com/40aZII1.png"
+        ]
+      }
+    },
+    "13.5": {
+      "title": "Afterword (Volume 2)",
+      "volume": "2",
+      "last_updated": "1480917600",
+      "groups": {
+        "dennou-translations": [
+		"https://i.imgur.com/nNfJDee.png"
         ]
       }
     }
